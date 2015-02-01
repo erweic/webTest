@@ -2,8 +2,8 @@ package test02;
 
 public class test {
 
-	public static void main11(String[ ] args)
+	public static void xxx(String[ ] args)
 	{
-		
+		String x="";
 	}
 }
